@@ -20,4 +20,4 @@ Here are some ideas to get you started:
   - axiom
 - What is axiom?
   Im glad you asked. 
-  A python library usable for automated prooving and solving logic questions using deduction.
+  A library used for automated prooving and solving logic questions using deduction.
