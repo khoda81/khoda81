@@ -11,13 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning ...
-  - Antlr
-  - Java
-- 💬 Ask me about ...
-  - Computer Science
-  - AI
+  - Rust
+  - Bevy
+  - WGSL
 - 🔭 I’m currently working on ...
-  - axiom
-- What is axiom?
-  Im glad you asked. 
-  A library used for automated prooving and solving logic questions using deduction.
+  - Hygene
