@@ -19,6 +19,7 @@ Welcome to my GitHub profile!
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-blueviolet?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jujusu](https://img.shields.io/badge/Jujusu-3c096c?style=for-the-badge)
 
 ## 📊 GitHub Stats
 
