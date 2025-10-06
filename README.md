@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Khoda!
+# 👋 Hi, I'm Mahdi!
 
 Welcome to my GitHub profile!
 
