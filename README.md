@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Mahdi!
 
-Welcome to my GitHub profile!
-
 ## 🧑‍💻 About Me
 
 - 🦀 Rust & 🐍 Python developer
