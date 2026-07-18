@@ -23,7 +23,5 @@ I'm open to **part-time remote contract opportunities** involving applied AI, Py
 
 ## Elsewhere
 
-* [LinkedIn](https://www.linkedin.com/in/axiom-dev/)
-* [ORCID](https://orcid.org/0009-0009-4025-2150)
 * [PyPI](https://pypi.org/user/khoda81/)
 * [crates.io](https://crates.io/users/khoda81)
