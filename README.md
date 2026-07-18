@@ -1,36 +1,29 @@
-# 👋 Hi, I'm Mahdi!
+# Hi, I'm Mahdi Khodabandeh
 
-## 🧑‍💻 About Me
+**Applied AI & systems developer working with Python, Rust, PyTorch, and TypeScript.**
 
-- 🦀 Rust & 🐍 Python developer
-- 🤖 AI enthusiast with experience in NLP and deep learning (PyTorch)
-- 🔬 Very interested in reinforcement learning (RL)
-- 🌱 Always learning new things in the field of ML and systems programming
-- 🚀 Passionate about open source and sharing knowledge
+I'm a software student at the **University of Tehran**. I enjoy building practical machine-learning systems, performance-conscious developer tools, and software at the boundary between research and production.
 
-## 🛠️ Tech Stack
+I'm currently interested in:
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-339933?style=for-the-badge)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-blueviolet?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jujusu](https://img.shields.io/badge/Jujusu-3c096c?style=for-the-badge)
+* Applied AI and language-model systems
+* Neural and classical data compression
+* Rust–Python interoperability
+* Reinforcement learning and search algorithms
+* Data-intensive and interactive applications
 
-## 📊 GitHub Stats
+I'm open to **part-time remote contract opportunities** involving applied AI, Python, Rust, or ML systems.
 
-![khoda81's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoda81&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoda81&layout=compact&theme=radical)
+## Toolbox
 
-## 📫 How to reach me
+**Languages:** Python, Rust, TypeScript, JavaScript
+**AI and data:** PyTorch, transformers, reinforcement learning, NLP
+**Systems and web:** Linux, WebAssembly, SolidJS, Vite, Bun
+**Development:** Git, Jujutsu, testing, benchmarking, package publishing
 
-- [LinkedIn](https://www.linkedin.com/in/axiom-dev/)
-- [Twitter](https://x.com/goofy_mahdi)
-- Email: 20.mahdikh.0@gmail.com
+## Elsewhere
 
----
-
-> “Simplicity is the soul of efficiency.”  
-> — Austin Freeman
+* [LinkedIn](https://www.linkedin.com/in/axiom-dev/)
+* [ORCID](https://orcid.org/0009-0009-4025-2150)
+* [PyPI](https://pypi.org/user/khoda81/)
+* [crates.io](https://crates.io/users/khoda81)
