@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - experiment/nobitex-synthetic-fx-2026-10-04
+  pull_request:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -66,14 +69,8 @@ jobs:
                   print(f"{asset:5}  empty/incomplete book")
                   continue
 
-              # Sell USDT synthetically: USDT -> asset at the asset/USDT ask,
-              # then asset -> IRT at the asset/IRT bid.
               implied_bid = irt_bid / usd_ask
-
-              # Buy USDT synthetically: IRT -> asset at the asset/IRT ask,
-              # then asset -> USDT at the asset/USDT bid.
               implied_ask = irt_ask / usd_bid
-
               mid = (implied_bid + implied_ask) / 2
               spread_bp = (implied_ask / implied_bid - 1) * Decimal(10_000)
               worst_age = max(irt_age, usd_age)
