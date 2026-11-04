@@ -23,12 +23,3 @@ I build software where modeling, algorithms, and systems implementation meet: ex
 - **[Arithmetipy](https://github.com/khoda81/arithmetipy)** — streaming arithmetic coding for Python, implemented in Rust and exposed through PyO3.
 
 Earlier work includes **[Chronickle](https://github.com/khoda81/chronickle)** ([live timeline](https://khoda81.github.io/chronickle/)), a market-and-news visualization; **[rust-2048-solver](https://github.com/khoda81/rust-2048-solver)**, a performance-focused search engine; and **[DETHCOD](https://github.com/khoda81/dethcod)**, experiments in learned lossless compression with transformers.
-
-## Toolbox
-
-**Languages:** Python, Rust, TypeScript, JavaScript  
-**ML/data:** PyTorch, Transformers, reinforcement learning, probabilistic modeling  
-**Systems/web:** Linux, PyO3, WebAssembly, Svelte, SolidJS, Vite, Bun  
-**Development:** Git, Jujutsu, testing, benchmarking, package publishing
-
-I'm open to **part-time remote contract and research-oriented engineering work** involving ML, Python, Rust, or systems-heavy AI tooling.
